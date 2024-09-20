@@ -33,7 +33,7 @@ tar -xvzf dataset_file.gz
 ```
 3. set your own parameters:
 Before running the code, you can configure the model parameters in the script. Feel free to modify them based on your experimental setup.
-4. 运行模型：
+4. Run the model:
 After setting up, you can start training the model:
 ```
 python y_ddi.py
