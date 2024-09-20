@@ -8,7 +8,7 @@ Relation extraction (RE) plays a crucial role in biomedical research, as it is e
 The repository contains the following key components:
 ```
 ├── data/                   # Folder for dataset storage (not included, see instructions)
-├── models/                 # Folder containing pre-trained models and saved model checkpoints
+├── model_path/                 # Folder containing pre-trained models and saved model checkpoints
 ├── models.py               # Code file containing only the model architecture
 ├── tools.py                # Scripts for data preprocessing and feature extraction
 ├── y_ddi.py                # Complete training script, including data preprocessing, feature extraction, and model training
