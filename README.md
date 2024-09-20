@@ -20,4 +20,15 @@ None
 None
 
 ## How to Cite
-None
+If you find this work useful for your research, please cite it using the following format:
+```
+@article{YourLastName2024,
+  title={Enhanced Biomedical Relation Extraction through Ensemble Learning and Attention Mechanism},
+  author={Your Name and Other Authors},
+  journal={Journal of Biomedical Informatics},
+  year={2024},
+  volume={XX},
+  pages={XX--XX},
+  doi={DOI_LINK}
+}
+```
