@@ -31,14 +31,16 @@ We provide a compressed file, and you can use the following code to extract the 
 # Example of code to extract the .gz file
 tar -xvzf dataset_file.gz
 ```
-3. set your own parameters:
+3. download bert models:
+If you are in a location where accessing the Hugging Face servers is difficult, please download the models in advance and place them in the model_path folder.
+4. set your own parameters:
 Before running the code, you can configure the model parameters in the script. Feel free to modify them based on your experimental setup.
-4. Run the model:
+5. Run the model:
 After setting up, you can start training the model:
 ```
 python y_ddi.py
 ```
-5.Troubleshooting:
+6.Troubleshooting:
 If you encounter any issues, please use the files in the original_file/ directory.
 
 ## Run the model:
