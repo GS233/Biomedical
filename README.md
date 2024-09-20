@@ -23,7 +23,7 @@ The repository contains the following key components:
 You can access the paper and related resources by following these steps:
 1. clone code
 ```
-git clone https://github.com/yourusername/biomedical-relation-extraction.git
+git clone https://github.com/GS233/Biomedical
 ```
 2. download dataset:
 We provide a compressed file, and you can use the following code to extract the .gz file:
